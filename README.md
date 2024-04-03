@@ -1,6 +1,6 @@
 # Fake-News-Detection-Tool
 ## Description
-A streamlit-based application that utilizes machine learning to classify news articles as "True" or "Fake." It employs natural language processing techniques to clean and vectorize text data, then applies several classification algorithms, including Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest, to make predictions. This tool aims to assist in quickly determining the credibility of news content.
+A streamlit-based application that utilizes machine learning to classify news articles as "True" or "Fake." It applies 4 classification algorithms, including Logistic Regression, Decision Tree, Gradient Boosting, and Random Forest, to make predictions. This tool aims to assist in quickly determining the credibility of news content.
 
 ## How to Run
 1. Ensure you have Python installed on your system.
